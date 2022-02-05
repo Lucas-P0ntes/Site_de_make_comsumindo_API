@@ -1,0 +1,4 @@
+{"scripts": {
+    "start": " command to be run", 
+    "test": "(eslint lib || true) && jest"
+  }}
