@@ -1,2 +1,2 @@
-# Site_de_make_comsumindo_API
+# Site_de_make_cosumindo_API
 Consumindo uma api  utilizando o método fetch.
